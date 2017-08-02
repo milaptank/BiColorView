@@ -58,7 +58,7 @@ freeline_project_description.json
 /captures
 /settings.gradle
 /gradle.properties
-/.idea/
 /gradle/
 /gradlew
 /gradlew.bat
+/.idea/
