@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/trianglebicolor-lib/src/androidTest/java/com/mpt/android/trianglebicolor/
+/trianglebicolor-lib/src/test/java/com/mpt/android/trianglebicolor/
+/settings.gradle
+/gradle.properties
+/.idea/
+/gradle/
+/gradlew
+/gradlew.bat
+/trianglebicolor-lib/build/

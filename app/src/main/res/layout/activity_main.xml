@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    tools:context="com.mpt.android.bicolor.MainActivity">
+
+    <com.mpt.android.trianglebicolor.TriangleBiColorView
+        android:id="@+id/triColorView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:bottomColor="@color/colorAccent"
+        app:size="160dp"
+        app:topColor="@color/colorPrimary"
+    />
+</LinearLayout>
+
+
+
